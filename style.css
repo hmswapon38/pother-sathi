@@ -209,7 +209,7 @@ footer div p{
 }
 
 
-@media screen and (min-width: 412px){
+@media screen and (max-width: 412px){
     body{
         display: block;
         width: 450px;
